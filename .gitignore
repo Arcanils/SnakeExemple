@@ -1,8 +1,8 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+/SRC_SNAKE/[Ll]ibrary/
+/SRC_SNAKE/[Tt]emp/
+/SRC_SNAKE/[Oo]bj/
+/SRC_SNAKE/[Bb]uild/
+/SRC_SNAKE/[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
